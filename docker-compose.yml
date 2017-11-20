@@ -4,5 +4,5 @@ services:
   myhealth.web:
     image: myhealth.web
     build:
-      context: ./src/MyHealth.Web
+      context: ./MyHealth.Web
       dockerfile: Dockerfile
